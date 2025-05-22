@@ -1,1 +1,1 @@
-# my-profile
+This is a SEE Exam oriented repo
